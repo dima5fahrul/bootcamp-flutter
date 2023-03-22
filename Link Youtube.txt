@@ -1,0 +1,2 @@
+1. Materi git dan command line 				: https://youtu.be/Lj30FoSL00U
+2. materi hari 2, instalasi dart dan type data 		: https://youtu.be/sqmTBDXcCCk
